@@ -1,1 +1,1 @@
-another readme for 0x01-git
+omo this course is challenging
